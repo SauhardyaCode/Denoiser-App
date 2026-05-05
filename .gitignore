@@ -1,4 +1,2 @@
 venv/
 audio-samples/
-audio-cache/*
-!audio-cache/.gitkeep
